@@ -2,10 +2,9 @@
 
 Default fcitx5 icon for chinese pinyin and korean hangul is too ugly, found some nice alternatives and here is how to replace the old icons.
 
-```
-cn_icon.png is from [JeroGC/fcitx5-simple-theme](https://github.com/JeroGC/fcitx5-simple-theme)
-kr_icon.png is from [South Korea icon by Icons8](https://icons8.com/)
-```
+`cn_icon.png` is from [JeroGC/fcitx5-simple-theme](https://github.com/JeroGC/fcitx5-simple-theme)
+
+`kr_icon.png` is from [South Korea icon by Icons8](https://icons8.com/)
 
 ### Chinese pinyin icon update
 
